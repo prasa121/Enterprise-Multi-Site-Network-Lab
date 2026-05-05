@@ -7,7 +7,7 @@
 
 <body>
 
-<h2>Enterprise Multi-Site Network Lab</h2>
+<h2>Enterprise Multi-Site Network Lab (Static Routing)</h2>
 
 <img src="https://github.com/user-attachments/assets/14fa6c36-c91e-48ac-a7fa-72b23dba2532" width="100%">
 
